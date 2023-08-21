@@ -13,7 +13,7 @@ public class A_princesa_e_o_mago {
 	}
 
 	
-// Método para batalhar junto com a fada
+// Batalhar junto com a fada
 	public static void batalhaFada(String nome)throws InterruptedException {
 		Scanner ent = new Scanner(System.in);
 		
